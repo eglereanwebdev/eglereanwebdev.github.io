@@ -24,8 +24,8 @@
         {% if contribution.extra.session == session %}
           <a class="header" href="{{ contribution.permalink | safe }}">{{ contribution.title }}</a>
           ({{ contribution.extra.authors }}) 
-          <input type='checkbox' style='display: none' id="cb"{{ contribution.title }}>
-            <label for="cb"{{ contribution.title }}>Click Here</label>
+          <input type='checkbox' style='display: none' id="{{ contribution.title }}" checked>
+            <label for="{{ contribution.title }}">Show abstract</label>
             <div>
               Hello. This is some stuff.
             </div>
