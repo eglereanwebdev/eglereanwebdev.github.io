@@ -23,7 +23,12 @@
         {% if contribution.extra.session %}
         {% if contribution.extra.session == session %}
           <a class="header" href="{{ contribution.permalink | safe }}">{{ contribution.title }}</a>
-          ({{ contribution.extra.authors }})
+          ({{ contribution.extra.authors }}) 
+          <input type='checkbox' style='display: none' id="cb"{{ contribution.title }}>
+            <label for="cb"{{ contribution.title }}>Click Here</label>
+            <div>
+              Hello. This is some stuff.
+            </div>
         {% endif %}
         {% endif %}
       {% endfor %}
