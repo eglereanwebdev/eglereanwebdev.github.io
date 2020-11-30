@@ -27,7 +27,7 @@
           <input type='checkbox' style='display: none' id="{{ contribution.title }}" checked>
             <label for="{{ contribution.title }}">Show abstract</label>
             <div>
-              {{ contribution.extra.abstract }}
+              {{ contribution.extra.abstract | safe }}
             </div>
         {% endif %}
         {% endif %}
