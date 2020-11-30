@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Wolmar Åkerström"
 session = "2.3"
+abstract = " "
 +++
 
 We would like to have a discussion on computational reproducibility and the

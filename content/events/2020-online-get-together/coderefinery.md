@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Radovan Bast"
 session = "2.1"
+abstract = " "
 +++
 
 In this short presentation I will discuss how we grew the CodeRefinery project

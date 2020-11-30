@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Richard Darst, Anne Fouilloux, and Radovan Bast"
 session = "3.3"
+abstract = " "
 +++
 
 [Research Software Hour](https://researchsoftwarehour.github.io/) is an online

@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Dmitrii Borisevich"
 session = "3.2"
+abstract = " "
 +++
 
 Python and R are two major programming languages used for research software development and data analysis in bioinformatics. It is not a symbiotic relationship, but a cold war between the fans of both.

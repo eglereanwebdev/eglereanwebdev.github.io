@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Matthew West"
 session = "2.4"
+abstract = " "
 +++
 
 

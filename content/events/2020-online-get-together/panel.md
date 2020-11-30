@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "moderated by Samantha Wittke"
 session = "3.1"
+abstract = " "
 +++
 
 Panelists:

@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "TBA"
 session = "3.4"
+abstract = " "
 +++
 
 An "unconference" has events scheduled based on interest of

@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Cyrille Artho"
 session = "2.3"
+abstract = " "
 +++
 
 Unit tests are fixed sequences of function calls that set up the software to the right state and test the outcome of one or a couple of functions. Unit testing has the advantage that if the functionality of the test is relatively clear, at the expense of generality. It is not feasible to create a diverse set of test cases by unit testing alone; we need higher levels of abstraction.

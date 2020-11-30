@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "TBA"
 session = "2.4"
+abstract = " "
 +++
 
 Abstract/notes will be shared here.

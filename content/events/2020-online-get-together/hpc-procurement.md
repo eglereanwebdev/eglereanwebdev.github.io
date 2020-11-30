@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Thor Wikfeldt and Gert Svensson"
 session = "3.3"
+abstract = " "
 +++
 
 Procuring an HPC system - a.k.a. a supercomputer - is a complex and

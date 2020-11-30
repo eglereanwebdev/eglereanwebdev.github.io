@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Jarno Rantaharju"
 session = "2.3"
+abstract = " "
 +++
 
 The Nordic RSE group is new. This is a great time to take part in the 

@@ -4,6 +4,7 @@ template = "session.html"
 [extra]
 authors = "Mark Abraham"
 session = "2.4"
+abstract = " "
 +++
 
 GROMACS is a free, open-source molecular dynamics community code mainly
